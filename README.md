@@ -1,5 +1,5 @@
 # Taste App
-create with ReactNative (JavaScript)
+create with ReactNative (TypeScript)
 
 ### About this project:
 - API : https://themealdb.com/api.php
